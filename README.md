@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djgrs
-- 👀 I’m interested in Data Science, Business Intelligence, Python and Java
-- 🌱 I’m currently learning BI and Machine Learning
+- 👀 I’m interested in Data Science, Business Intelligence, Python
+- 🌱 I’m currently learning Terraform, AWS, bashing Linux-based systems
 - 💞️ Though i dunno how to collaborate.
 - 📫 Call me on Github anyways or Twitter: @djagueras
 
