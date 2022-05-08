@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @djgrs
+- 👋 Hi, I’m Leandro
 - 👀 I’m interested in Data Science, Business Intelligence, Python
 - 🌱 I’m currently learning Terraform, AWS, bashing Linux-based systems
 - 💞️ Though i dunno how to collaborate.
